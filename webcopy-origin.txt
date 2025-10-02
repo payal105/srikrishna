@@ -1,0 +1,2264 @@
+Uri: https://assets.website-files.com/63482eabc0c973875a125955/634d49bda83bb6c3b2555da0_arch-sweets-02.svg
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\63482eabc0c973875a125955\634d49bda83bb6c3b2555da0_arch-sweets-02.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/63482eabc0c973875a125955/634d4a042d6ff77e29bdbeb5_arch-sweets-01.svg
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\63482eabc0c973875a125955\634d4a042d6ff77e29bdbeb5_arch-sweets-01.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/63482eabc0c973875a125955/634d4a04453d988261bd52ed_arch-sweets-03.svg
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\63482eabc0c973875a125955\634d4a04453d988261bd52ed_arch-sweets-03.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\npm\bootstrap@5.0.2\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\npm\bootstrap@5.0.2\dist\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\npm\glightbox\dist\css\glightbox.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\npm\glightbox\dist\js\glightbox.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/bootstrap-icons.svg
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\ajax\libs\bootstrap-icons\1.11.3\bootstrap-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\ajax\libs\bootstrap-icons\1.11.3\font\bootstrap-icons.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/fonts/bootstrap-icons.woff2?dd67030699838ea613ee6dbda90effa6
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\ajax\libs\bootstrap-icons\1.11.3\font\fonts\bootstrap-icons.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/fonts/bootstrap-icons.woff?dd67030699838ea613ee6dbda90effa6
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\ajax\libs\bootstrap-icons\1.11.3\font\fonts\bootstrap-icons.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\ajax\libs\font-awesome\6.6.0\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-brands-400.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\ajax\libs\font-awesome\6.6.0\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-brands-400.woff2
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\ajax\libs\font-awesome\6.6.0\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-regular-400.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\ajax\libs\font-awesome\6.6.0\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-regular-400.woff2
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\ajax\libs\font-awesome\6.6.0\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-solid-900.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\ajax\libs\font-awesome\6.6.0\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-solid-900.woff2
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\ajax\libs\font-awesome\6.6.0\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-v4compatibility.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\ajax\libs\font-awesome\6.6.0\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-v4compatibility.woff2
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\ajax\libs\font-awesome\6.6.0\webfonts\fa-v4compatibility.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\ajax\libs\gsap\3.12.2\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\ajax\libs\gsap\3.12.2\ScrollTrigger.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\ajax\libs\jquery\3.4.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\ajax\libs\OwlCarousel2\2.3.4\assets\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\ajax\libs\OwlCarousel2\2.3.4\assets\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.video.play.png
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\ajax\libs\OwlCarousel2\2.3.4\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.js
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\ajax\libs\OwlCarousel2\2.3.4\owl.carousel.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\css2-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=El+Messiri:wght@400..700&display=swap
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\css2-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&display=swap
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-gjgTYo.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\cinzel\v26\8vIU7ww63mVu7gtR-kwKxNvkNOjw-gjgTYo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-jHgTYo.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\cinzel\v26\8vIU7ww63mVu7gtR-kwKxNvkNOjw-jHgTYo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-lbgTYo.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\cinzel\v26\8vIU7ww63mVu7gtR-kwKxNvkNOjw-lbgTYo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-n_gTYo.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\cinzel\v26\8vIU7ww63mVu7gtR-kwKxNvkNOjw-n_gTYo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnTYo.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\cinzel\v26\8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnTYo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-uTnTYo.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\cinzel\v26\8vIU7ww63mVu7gtR-kwKxNvkNOjw-uTnTYo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/elmessiri/v25/K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuUufK5g.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\elmessiri\v25\K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuUufK5g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/elmessiri/v25/K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuUXfK5g.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\elmessiri\v25\K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuUXfK5g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/elmessiri/v25/K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuXCe65g.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\elmessiri\v25\K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuXCe65g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/elmessiri/v25/K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuXwe65g.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\elmessiri\v25\K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuXwe65g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v25/S6u-w4BMUTPHjxsIPy-v.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\lato\v25\S6u-w4BMUTPHjxsIPy-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v25/S6u8w4BMUTPHh30wWw.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\lato\v25\S6u8w4BMUTPHh30wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v25/S6u8w4BMUTPHjxswWw.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\lato\v25\S6u8w4BMUTPHjxswWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v25/S6u9w4BMUTPHh50Xew8.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\lato\v25\S6u9w4BMUTPHh50Xew8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v25/S6u9w4BMUTPHh6UVew8.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\lato\v25\S6u9w4BMUTPHh6UVew8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v25/S6u9w4BMUTPHh7USew8.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\lato\v25\S6u9w4BMUTPHh7USew8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v25/S6uyw4BMUTPHvxk.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\lato\v25\S6uyw4BMUTPHvxk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v25/S6u_w4BMUTPHjxsI3wiPHA.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\lato\v25\S6u_w4BMUTPHjxsI3wiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v25/S6u_w4BMUTPHjxsI5wqPHA.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\lato\v25\S6u_w4BMUTPHjxsI5wqPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v25/S6u_w4BMUTPHjxsI9w2PHA.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\lato\v25\S6u_w4BMUTPHjxsI9w2PHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6aX8.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6aX8.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aX8.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8aX8.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aX8.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16aX8.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6aX8.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9aX8.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9aX8.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-3UQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-3UQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-3UQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-3UQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-3UQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-3UQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-3UQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-3UQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-3UQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-3UQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-3UQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-3UQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-3UQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-3UQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UYZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UYZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UYZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UYZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UYZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UYZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UYZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UYZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UYZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UYZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UYZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UYZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UYZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-7UYZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-bUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-bUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-bUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-bUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-bUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-bUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-bUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-bUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-bUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-bUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-bUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-bUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-bUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-bUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-bUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-bUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-bUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-bUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-bUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-bUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-bUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-bUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-bUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-bUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-bUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-bUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-bUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-bUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-DUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-DUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-DUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-DUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-DUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-DUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-DUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-DUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-DUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-DUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-DUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-DUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-DUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-DUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-HUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-HUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-HUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-HUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-HUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-HUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-HUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-HUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-HUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-HUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-HUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-HUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-HUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-HUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-jUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-jUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-jUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-jUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-jUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-jUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-jUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-jUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-jUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-jUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-jUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-jUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-jUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-jUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-LUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-LUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-LUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-LUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-LUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-LUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-LUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-LUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-LUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-LUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-LUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-LUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-LUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-LUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUUZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUUZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUUZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUUZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUUZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUUZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUUZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUUZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUUZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUUZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUUZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUUZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUUZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-PUUZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-rUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-rUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-rUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-rUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-rUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-rUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-rUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-rUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-rUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-rUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-rUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-rUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-rUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-rUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-TUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-TUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-TUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-TUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-TUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-TUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-TUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-TUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-TUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-TUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-TUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-TUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-TUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-TUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-vUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-vUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-vUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-vUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-vUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-vUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-vUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-vUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-vUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-vUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-vUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-vUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-vUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-vUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-vUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-vUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-vUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-vUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-vUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-vUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-vUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-vUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-vUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-vUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-vUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-vUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-vUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-vUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-XUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-XUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-XUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-XUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-XUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-XUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-XUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-XUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-XUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-XUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-XUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-XUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-XUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-XUQZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-zUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-zUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-zUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-zUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-zUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-zUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-zUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-zUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-zUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-zUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-zUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-zUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-zUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-zUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-zUYZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-zUYZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-zUYZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-zUYZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-zUYZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-zUYZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-zUYZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-zUYZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-zUYZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-zUYZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-zUYZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-zUYZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-zUYZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-zUYZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQaDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQaDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQaDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQaDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQaDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQaDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQaDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQaDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQaDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQaDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQaDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQaDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQaDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQaDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQajFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQajFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQajFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQajFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQajFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQajFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQajFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQajFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQajFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQajFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQajFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQajFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQajFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQajFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQarFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQarFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQarFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQarFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQarFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQarFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQarFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQarFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQarFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQarFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQarFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQarFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQarFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQarFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQazFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQazFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQazFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQazFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQazFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQazFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQazFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQazFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQazFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQazFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQazFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQazFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQazFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQazFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQazFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQazFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQazFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQazFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQazFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQazFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQazFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQazFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQazFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQazFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQazFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQazFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQazFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQazFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbDF5FUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbDF5FUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbDF5FUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbDF5FUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbDF5FUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbDF5FUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbDF5FUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbDF5FUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbDF5FUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbDF5FUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbDF5FUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbDF5FUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbDF5FUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbDF5FUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjF5FUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjF5FUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjF5FUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjF5FUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjF5FUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjF5FUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjF5FUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjF5FUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjF5FUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjF5FUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjF5FUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjF5FUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjF5FUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjF5FUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbjFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbTFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbTFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbTFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbTFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbTFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbTFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbTFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbTFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbTFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbTFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbTFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbTFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbTFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQbTFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYTFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYTFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYTFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYTFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYTFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYTFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYTFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYTFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYTFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYTFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYTFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYTFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYTFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYTFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFJFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFJFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFJFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFJFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFJFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFJFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFJFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFJFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFJFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFJFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFJFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFJFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFJFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFJFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQYzFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZjFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZjFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZjFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZjFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZjFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZjFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZjFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZjFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZjFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZjFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZjFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZjFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZjFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZjFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZjFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZTFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZTFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZTFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZTFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZTFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZTFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZTFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZTFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZTFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZTFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZTFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZTFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZTFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZTFZFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v31/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyUbpfBJ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\robotocondensed\v31\ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyUbpfBJ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v31/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyUyovBJ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\robotocondensed\v31\ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyUyovBJ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v31/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyUypfBJ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\robotocondensed\v31\ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyUypfBJ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v31/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyVspfBJ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\robotocondensed\v31\ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyVspfBJ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v31/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyVVpfBJ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\robotocondensed\v31\ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyVVpfBJ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v31/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyWAovBJ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\robotocondensed\v31\ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyWAovBJ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v31/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyWyovBJ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\robotocondensed\v31\ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyWyovBJ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v31/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyWyo_BJ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\robotocondensed\v31\ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyWyo_BJ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v31/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyXsovBJ.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\robotocondensed\v31\ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyXsovBJ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v31/ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64bEN5Xk.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\robotocondensed\v31\ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64bEN5Xk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v31/ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64cYN5Xk.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\robotocondensed\v31\ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64cYN5Xk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v31/ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64f8N5Xk.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\robotocondensed\v31\ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64f8N5Xk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v31/ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64RgK5Xk.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\robotocondensed\v31\ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64RgK5Xk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v31/ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64RgL5Xk.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\robotocondensed\v31\ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64RgL5Xk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v31/ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64SoK5Xk.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\robotocondensed\v31\ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64SoK5Xk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v31/ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64UYK5Xk.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\robotocondensed\v31\ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64UYK5Xk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v31/ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64ZgK5Xk.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\robotocondensed\v31\ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64ZgK5Xk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v31/ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64ZgN5Xk.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\robotocondensed\v31\ieVW2ZhZI2eCN5jzbjEETS9weq8-19ehAyvMum7nfDB64ZgN5Xk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8sDE0Uw.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\rubik\v31\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8sDE0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tdE0Uw.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\rubik\v31\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tdE0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tvE0Uw.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\rubik\v31\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tvE0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8u6FEUw.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\rubik\v31\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8u6FEUw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8uDFEUw.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\rubik\v31\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8uDFEUw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8v0FEUw.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\rubik\v31\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8v0FEUw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8vdFEUw.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\rubik\v31\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8vdFEUw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-1UA.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\rubik\v31\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-1UA.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\rubik\v31\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1UA.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\rubik\v31\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-h4-1UA.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\rubik\v31\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-h4-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYi1UA.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\rubik\v31\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYi1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-ro-1UA.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\rubik\v31\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-ro-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYi1UA.ttf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\s\rubik\v31\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYi1UA.ttf
+Content Type: font/ttf
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.css
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\aos@2.3.1\dist\aos.css
+Content Type: text/css
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.js
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\aos@2.3.1\dist\aos.js
+Content Type: text/javascript
+
+Uri: https://unpkg.com/swiper@12.0.2/swiper-bundle.min.css
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\swiper@12.0.2\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://unpkg.com/swiper@12.0.2/swiper-bundle.min.js
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\swiper@12.0.2\swiper-bundle.min.js
+Content Type: text/javascript
+
+Uri: https://www.madhureno.in/
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\index.htm
+Content Type: text/html
+
+Uri: https://www.madhureno.in/about.php
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\about.php.html
+Content Type: text/html
+
+Uri: https://www.madhureno.in/contact.php
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\contact.php.html
+Content Type: text/html
+
+Uri: https://www.madhureno.in/corporate.php
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\corporate.php.html
+Content Type: text/html
+
+Uri: https://www.madhureno.in/css/media.css
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\css\media.css
+Content Type: text/css
+
+Uri: https://www.madhureno.in/css/style.css
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\css\style.css
+Content Type: text/css
+
+Uri: https://www.madhureno.in/festival.php
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\festival.php.html
+Content Type: text/html
+
+Uri: https://www.madhureno.in/gallery.php
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\gallery.php.html
+Content Type: text/html
+
+Uri: https://www.madhureno.in/img/about-bg-dot-shape-2.svg
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\about-bg-dot-shape-2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.madhureno.in/img/Awfis logo 400x400.png
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\Awfis logo 400x400.png
+Content Type: image/png
+
+Uri: https://www.madhureno.in/img/Birthdays (1).png
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\Birthdays (1).png
+Content Type: image/png
+
+Uri: https://www.madhureno.in/img/Celebrations.png
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\Celebrations.png
+Content Type: image/png
+
+Uri: https://www.madhureno.in/img/contactpagemadureno-min1.jpg
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\contactpagemadureno-min1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.madhureno.in/img/Corporate gifting.png
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\Corporate gifting.png
+Content Type: image/png
+
+Uri: https://www.madhureno.in/img/Festivals.png
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\Festivals.png
+Content Type: image/png
+
+Uri: https://www.madhureno.in/img/IIHMlogo.png
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\IIHMlogo.png
+Content Type: image/png
+
+Uri: https://www.madhureno.in/img/Indismart Hotel Logo.jpg
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\Indismart Hotel Logo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.madhureno.in/img/logo.png
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\logo.png
+Content Type: image/png
+
+Uri: https://www.madhureno.in/img/Madhureno LOGO white-01.png
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\Madhureno LOGO white-01.png
+Content Type: image/png
+
+Uri: https://www.madhureno.in/img/MADHURENUlog.jpeg
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\MADHURENUlog.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.madhureno.in/img/md-mg1-removebg-preview.png
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\md-mg1-removebg-preview.png
+Content Type: image/png
+
+Uri: https://www.madhureno.in/img/md-mg1.jpeg
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\md-mg1.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.madhureno.in/img/md-mg11-removebg-preview.png
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\md-mg11-removebg-preview.png
+Content Type: image/png
+
+Uri: https://www.madhureno.in/img/md-mg11.jpeg
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\md-mg11.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.madhureno.in/img/md-mg12-removebg-preview.png
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\md-mg12-removebg-preview.png
+Content Type: image/png
+
+Uri: https://www.madhureno.in/img/md-mg12.jpeg
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\md-mg12.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.madhureno.in/img/md-mg13.jpeg
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\md-mg13.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.madhureno.in/img/md-mg14-removebg-preview.png
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\md-mg14-removebg-preview.png
+Content Type: image/png
+
+Uri: https://www.madhureno.in/img/md-mg14.jpeg
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\md-mg14.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.madhureno.in/img/md-mg15.jpeg
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\md-mg15.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.madhureno.in/img/md-mg2-removebg-preview.png
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\md-mg2-removebg-preview.png
+Content Type: image/png
+
+Uri: https://www.madhureno.in/img/md-mg2.jpeg
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\md-mg2.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.madhureno.in/img/md-mg26.jpg
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\md-mg26.jpg
+Content Type: image/jpeg
+
+Uri: https://www.madhureno.in/img/md-mg3-removebg-preview.png
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\md-mg3-removebg-preview.png
+Content Type: image/png
+
+Uri: https://www.madhureno.in/img/Mishta Final LOGO_1.jpg
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\Mishta Final LOGO_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.madhureno.in/img/Occasions.png
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\Occasions.png
+Content Type: image/png
+
+Uri: https://www.madhureno.in/img/png (1).jpeg
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\png (1).jpeg
+Content Type: image/jpeg
+
+Uri: https://www.madhureno.in/img/png (2).jpeg
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\png (2).jpeg
+Content Type: image/jpeg
+
+Uri: https://www.madhureno.in/img/png (3).jpeg
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\png (3).jpeg
+Content Type: image/jpeg
+
+Uri: https://www.madhureno.in/img/png__2_-removebg-preview.png
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\png__2_-removebg-preview.png
+Content Type: image/png
+
+Uri: https://www.madhureno.in/img/TRS LOGO_A3_cc_page-0001.jpg
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\TRS LOGO_A3_cc_page-0001.jpg
+Content Type: image/jpeg
+
+Uri: https://www.madhureno.in/img/user-img.jpg
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\user-img.jpg
+Content Type: image/jpeg
+
+Uri: https://www.madhureno.in/img/Weddings.png
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\img\Weddings.png
+Content Type: image/png
+
+Uri: https://www.madhureno.in/index.php
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\index.php.html
+Content Type: text/html
+
+Uri: https://www.madhureno.in/js/main.js
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\js\main.js
+Content Type: application/x-javascript
+
+Uri: https://www.madhureno.in/product.php
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\product.php.html
+Content Type: text/html
+
+Uri: https://www.madhureno.in/TuesdayNight-Regular/TuesdayNight-Regular.otf
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\TuesdayNight-Regular\TuesdayNight-Regular.otf
+Content Type: application/x-font-woff
+
+Uri: https://www.madhureno.in/wedding.php
+File Name: C:\Projects_Folder\Createdge-projects\madhurenu\www.madhureno.in\wedding.php.html
+Content Type: text/html
+

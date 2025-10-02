@@ -1,0 +1,101 @@
+/* Enhanced Sweets Section Styles */
+.mod--sweets {
+    position: relative;
+}
+
+.swiper-slide__content.mod--sweets {
+    transition: transform 0.5s ease, filter 0.5s ease;
+    padding: 20px;
+}
+
+.swiper-slide__content.mod--sweets:hover {
+    transform: translateY(-10px) scale(1.05);
+    filter: drop-shadow(0 10px 20px rgba(0,0,0,0.2));
+}
+
+.img.mod--sweets1,
+.img.mod--sweets2,
+.img.mod--sweets3 {
+    transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+    filter: drop-shadow(0 5px 15px rgba(0,0,0,0.1));
+}
+
+.img.mod--sweets1:hover,
+.img.mod--sweets2:hover,
+.img.mod--sweets3:hover {
+    transform: rotate(-5deg) scale(1.1);
+}
+
+.heading-small.text-align-center {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--accent-color);
+    margin: 20px 0;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: color 0.3s ease;
+}
+
+.swiper-nav .btn-arrow {
+    background: rgba(255,255,255,0.1);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.swiper-nav .btn-arrow:hover {
+    background: var(--accent-color);
+    transform: scale(1.1);
+}
+
+.swiper-nav .btn-arrow i {
+    color: white;
+    font-size: 1.2rem;
+}
+
+.sweets__price {
+    background: linear-gradient(135deg, var(--accent-color) 0%, #ffcc00 100%);
+    padding: 10px 20px;
+    border-radius: 25px;
+    display: inline-block;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.sweets__price-span {
+    color: white;
+    font-size: 1.8rem;
+    font-weight: 600;
+}
+
+.sweets__bg-hover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: radial-gradient(circle at center, rgba(255,204,0,0.1) 0%, transparent 70%);
+    opacity: 0;
+    transition: opacity 0.5s ease;
+    pointer-events: none;
+}
+
+.slider-wrap:hover .sweets__bg-hover {
+    opacity: 1;
+}
+
+/* Animation for background elements */
+@keyframes float {
+    0% { transform: translateY(0); }
+    50% { transform: translateY(-20px); }
+    100% { transform: translateY(0); }
+}
+
+.bg-elem.mod--arch-sweets {
+    animation: float 6s ease-in-out infinite;
+    opacity: 0.1;
+}
