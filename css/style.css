@@ -1745,7 +1745,7 @@ a.huh {
 .marquee-content span {
   font-size: 68px;
   font-weight: 500;
-  color: #c51e39;
+  color: var(--arrow-color);
   padding-right: 60px;
  font-family: var(--accent-font);
   /* font-family: "Onest", sans-serif; */
