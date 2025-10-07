@@ -32,6 +32,10 @@
 
 body {
   font-size: 20px;
+  background: #F7971E;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FFD200, #F7971E);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FFD200, #F7971E); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+;
 }
 
 html {
@@ -179,12 +183,12 @@ header.sticky {
   font-size: 85% !important;
   font-weight: 500 !important;
   text-transform: uppercase !important;
-  color: var(--primary-color) !important;
+  color: var(--accent-color) !important;
   padding-right: 0rem !important;
   padding-left: 0rem !important;
   margin-right: 1rem !important;
   margin-left: 1rem !important;
-  font-family: "Inter", serif !important;
+  font-family: "El Messiri", serif !important;
 }
 
 .navbar-light .navbar-nav .nav-link:active {
@@ -693,7 +697,7 @@ button.owl-prev {
 }
 
 .title span {
-  color: var(--arrow-color);
+  color: var(--accent-color);
 }
 
 .para {
@@ -1076,7 +1080,7 @@ a.huh {
   text-align: center;
   /* margin-top: 80px; */
   font-size: 16px;
-  color: var(--arrow-color);
+  color: var(--accent-color);
   font-weight: 500;
   font-family: var(--accent-font);
     /* font-family: "Onest", sans-serif; */
@@ -1238,7 +1242,7 @@ a.huh {
 
 .clints_slider {
   padding: 60px 0;
-  background-color: var(--arrow-color);
+  background:  linear-gradient(to right, rgba(103, 21, 6, 0.7), rgba(103, 21, 6, 0.7));;
   margin-top: 60px;
 }
 
@@ -1252,7 +1256,7 @@ a.huh {
   text-transform: capitalize;
 
   span {
-    color: var(--accent-color);
+    color: var(--arrow-color);
     font-weight: 600;
   }
 }
